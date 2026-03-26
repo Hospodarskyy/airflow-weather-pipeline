@@ -1,0 +1,7 @@
+airflow_env/
+*.db
+__pycache__/
+logs/
+airflow.cfg
+airflow.db
+unittests.cfg
